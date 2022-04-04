@@ -6,7 +6,7 @@ ESTE ES UN EJEMPLO CORRECTO:
 	Entre el número de estados: 4
 	Entre los símbolos de entrada sin separar con espacios: ab
 	Entre las transiciones, o -1 si ya no existen más tranciciones para crear:
-	0 a $ 1 a A$
+	0 a $ 1 A$
 	1 a A 1 aA
 	1 a a 1 aa
 	1 b a 2 .
