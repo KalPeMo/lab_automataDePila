@@ -183,7 +183,7 @@ class DeterministicPushdownAutomata():
                 stack.append("$")
 			    isStringAcceptable = false
 
-        print("Program Complete",end="");
+        print("Programa finalizado",end="");
 
 
 
