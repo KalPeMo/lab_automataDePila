@@ -8,7 +8,7 @@ package lab_automataDePila;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class Main {
+public class lab_automataDePila {
 
 	// Variable globales
 	public static int currentState = 0; //  Estado actual en el que nos encontramos
@@ -21,7 +21,7 @@ public class Main {
 	public static boolean wasThereProperTransition = false; // valor boolean que se torna en true si existe una transición adecuada de un estado a otro
 	public static String lambda = "."; // se usa el . para la representación de lambda
 
-	public static void Main(String[] args) {
+	public static void main(String[] args) {
 
 		stack = new Stack<String>();
 		stack.push("$"); // simbolo de entrada para la pila
