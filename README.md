@@ -1,5 +1,5 @@
 # Manual técnico y de usuario
-Saludos, nuestro código es sencillo. Se ejectua el código Main en Pyhthon y se sigue cada instrucción.
+Saludos, nuestro código es sencillo. Se ejectua el código Main en Java y se sigue cada instrucción.
 
 ESTE ES UN EJEMPLO CORRECTO:
 
