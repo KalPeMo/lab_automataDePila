@@ -169,4 +169,3 @@ public class lab_automataDePila {
 		}
 		return -1; // Si llegó hasta aquí la trnasición no está correcta
 	}
-}// Todos los d d r e intelectual, Andrew Sison le pertenece a sus creadores, para nuestro caso de UdeA este programa cumple con las específicacinoes del lab 
